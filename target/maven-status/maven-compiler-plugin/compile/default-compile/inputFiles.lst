@@ -1,0 +1,13 @@
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/model/courier/LoginCourierParams.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/helpers/Utils.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/model/order/GetOrdersResponse.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/model/order/Order.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/model/IParams.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/CourierApi.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/model/order/PageInfo.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/model/order/Station.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/model/order/CreateOrderParams.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/OrdersApi.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/model/courier/CreateCourierParams.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/ScooterRestClient.java
+/Users/natalia.melnikova/IdeaProjects/Sprint_7/src/main/java/praktikum/yandex/ru/http/model/order/Color.java

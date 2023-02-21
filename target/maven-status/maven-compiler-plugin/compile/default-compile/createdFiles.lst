@@ -1,0 +1,13 @@
+praktikum/yandex/ru/http/OrdersApi.class
+praktikum/yandex/ru/http/model/order/Color.class
+praktikum/yandex/ru/http/model/courier/CreateCourierParams.class
+praktikum/yandex/ru/http/model/courier/LoginCourierParams.class
+praktikum/yandex/ru/http/CourierApi.class
+praktikum/yandex/ru/http/model/order/GetOrdersResponse.class
+praktikum/yandex/ru/http/ScooterRestClient.class
+praktikum/yandex/ru/http/helpers/Utils.class
+praktikum/yandex/ru/http/model/order/CreateOrderParams.class
+praktikum/yandex/ru/http/model/order/Station.class
+praktikum/yandex/ru/http/model/order/PageInfo.class
+praktikum/yandex/ru/http/model/order/Order.class
+praktikum/yandex/ru/http/model/IParams.class
