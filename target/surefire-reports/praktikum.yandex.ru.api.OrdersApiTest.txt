@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: praktikum.yandex.ru.api.OrdersApiTest
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.361 s - in praktikum.yandex.ru.api.OrdersApiTest
