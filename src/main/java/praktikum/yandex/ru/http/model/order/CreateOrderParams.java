@@ -1,10 +1,10 @@
 package praktikum.yandex.ru.http.model.order;
 
-import praktikum.yandex.ru.http.model.IParams;
+import praktikum.yandex.ru.http.model;
 
 import java.util.List;
 
-public class CreateOrderParams implements IParams {
+public class CreateOrderParams {
     private String firstName;
     private String lastName;
     private String address;

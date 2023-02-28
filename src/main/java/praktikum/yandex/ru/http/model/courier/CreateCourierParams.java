@@ -2,7 +2,7 @@ package praktikum.yandex.ru.http.model.courier;
 
 import praktikum.yandex.ru.http.model.IParams;
 
-public class CreateCourierParams implements IParams {
+public class CreateCourierParams {
     private String login;
     private String password;
     private String firstName;
